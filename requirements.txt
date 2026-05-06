@@ -1,0 +1,5 @@
+flask
+python-dotenv
+requests
+gunicorn
+urllib3<2
